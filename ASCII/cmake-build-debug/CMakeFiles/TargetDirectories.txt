@@ -1,0 +1,3 @@
+F:/student/it1/svobodas/ASCII/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/student/it1/svobodas/ASCII/cmake-build-debug/CMakeFiles/ASCII.dir
+F:/student/it1/svobodas/ASCII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
